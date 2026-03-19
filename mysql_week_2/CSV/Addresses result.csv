@@ -1,0 +1,41 @@
+id,user_id,street,city,state,pincode
+1,1,"221B MG Road",Mumbai,Maharashtra,400001
+2,22,"14 Park Street",Kolkata,"West Bengal",700016
+3,3,"32 Residency Road",Bengaluru,Karnataka,560025
+4,24,"5 North Usman Road",Chennai,"Tamil Nadu",600017
+5,5,"17 Hazratganj",Lucknow,"Uttar Pradesh",226001
+6,6,"55 Banjara Hills",Hyderabad,Telangana,500034
+7,7,"88 Connaught Place",Delhi,Delhi,110001
+8,8,"10 MG Marg",Dehradun,Uttarakhand,248001
+9,9,"23 Brigade Road",Bengaluru,Karnataka,560025
+10,10,"45 Marine Drive",Mumbai,Maharashtra,400020
+11,11,"67 Ashoka Road",Delhi,Delhi,110001
+12,12,"89 MG Road",Pune,Maharashtra,411001
+13,13,"12 Brigade Road",Bengaluru,Karnataka,560025
+14,14,"34 Park Street",Kolkata,"West Bengal",700016
+15,15,"56 Connaught Place",Delhi,Delhi,110001
+16,16,"78 Marine Drive",Mumbai,Maharashtra,400020
+17,17,"90 MG Marg",Dehradun,Uttarakhand,248001
+18,18,"11 North Usman Road",Chennai,"Tamil Nadu",600017
+19,19,"33 Residency Road",Bengaluru,Karnataka,560025
+20,20,"22 Hazratganj",Lucknow,"Uttar Pradesh",226001
+21,1,"221B MG Road",Mumbai,Maharashtra,400001
+22,22,"14 Park Street",Kolkata,"West Bengal",700016
+23,3,"32 Residency Road",Bengaluru,Karnataka,560025
+24,24,"5 North Usman Road",Chennai,"Tamil Nadu",600017
+25,5,"17 Hazratganj",Lucknow,"Uttar Pradesh",226001
+26,6,"55 Banjara Hills",Hyderabad,Telangana,500034
+27,7,"88 Connaught Place",Delhi,Delhi,110001
+28,8,"10 MG Marg",Dehradun,Uttarakhand,248001
+29,9,"23 Brigade Road",Bengaluru,Karnataka,560025
+30,10,"45 Marine Drive",Mumbai,Maharashtra,400020
+31,11,"67 Ashoka Road",Delhi,Delhi,110001
+32,12,"89 MG Road",Pune,Maharashtra,411001
+33,13,"12 Brigade Road",Bengaluru,Karnataka,560025
+34,14,"34 Park Street",Kolkata,"West Bengal",700016
+35,15,"56 Connaught Place",Delhi,Delhi,110001
+36,16,"78 Marine Drive",Mumbai,Maharashtra,400020
+37,17,"90 MG Marg",Dehradun,Uttarakhand,248001
+38,18,"11 North Usman Road",Chennai,"Tamil Nadu",600017
+39,19,"33 Residency Road",Bengaluru,Karnataka,560025
+40,20,"22 Hazratganj",Lucknow,"Uttar Pradesh",226001
